@@ -1,0 +1,5 @@
+pip-chill
+numpy
+dvc 
+mlflow 
+ipykernel
