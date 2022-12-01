@@ -1,1 +1,0 @@
-/home/docker/ws/build/model_interfaces/rosidl_typesupport_fastrtps_cpp/model_interfaces/srv/detail/model__rosidl_typesupport_fastrtps_cpp.hpp

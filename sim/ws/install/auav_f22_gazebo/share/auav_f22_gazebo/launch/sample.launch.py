@@ -1,1 +1,0 @@
-/home/docker/ws/src/auav_f22_gazebo/launch/sample.launch.py
