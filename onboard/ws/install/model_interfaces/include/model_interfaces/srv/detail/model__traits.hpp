@@ -1,0 +1,1 @@
+/home/docker/ws/build/model_interfaces/rosidl_generator_cpp/model_interfaces/srv/detail/model__traits.hpp

@@ -1,0 +1,11 @@
+source;share/auav_f22/hook/cmake_prefix_path.ps1
+source;share/auav_f22/hook/cmake_prefix_path.dsv
+source;share/auav_f22/hook/cmake_prefix_path.sh
+source;share/auav_f22/hook/pythonpath.ps1
+source;share/auav_f22/hook/pythonpath.dsv
+source;share/auav_f22/hook/pythonpath.sh
+source;share/auav_f22/local_setup.bash
+source;share/auav_f22/local_setup.dsv
+source;share/auav_f22/local_setup.ps1
+source;share/auav_f22/local_setup.sh
+source;share/auav_f22/local_setup.zsh
